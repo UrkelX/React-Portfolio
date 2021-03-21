@@ -20,9 +20,7 @@ export default function HomePage() {
               Urkel
             </h1>
             <p class="mt-6 max-w-3xl text-xl text-gray-300">
-              Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate
-              id malesuada non. Cras aliquet purus dui laoreet diam sed lacus,
-              fames. Dui, amet, nec sit pulvinar.
+              My name's Jordon. Friends call me Urk. I'm a new developer but eager to help reshape the way tech influences people and how we influence tech. 
             </p>
           </div>
         </div>
