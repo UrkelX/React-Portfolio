@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.60213c9d.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.a5897f0f.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.a5897f0f.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.75600aa6.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.75600aa6.js.map",
-    "static/js/2.0664608a.chunk.js": "/react-portfolio/static/js/2.0664608a.chunk.js",
-    "static/js/2.0664608a.chunk.js.map": "/react-portfolio/static/js/2.0664608a.chunk.js.map",
-    "static/js/3.a83702c6.chunk.js": "/react-portfolio/static/js/3.a83702c6.chunk.js",
-    "static/js/3.a83702c6.chunk.js.map": "/react-portfolio/static/js/3.a83702c6.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "static/css/main.60213c9d.chunk.css.map": "/react-portfolio/static/css/main.60213c9d.chunk.css.map",
-    "static/js/2.0664608a.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.0664608a.chunk.js.LICENSE.txt",
-    "static/media/Bird1.4ca8f03a.jpg": "/react-portfolio/static/media/Bird1.4ca8f03a.jpg"
+    "main.css": "/React-Portfolio/static/css/main.60213c9d.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.a5897f0f.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.a5897f0f.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.40e5ae33.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.40e5ae33.js.map",
+    "static/js/2.0664608a.chunk.js": "/React-Portfolio/static/js/2.0664608a.chunk.js",
+    "static/js/2.0664608a.chunk.js.map": "/React-Portfolio/static/js/2.0664608a.chunk.js.map",
+    "static/js/3.a83702c6.chunk.js": "/React-Portfolio/static/js/3.a83702c6.chunk.js",
+    "static/js/3.a83702c6.chunk.js.map": "/React-Portfolio/static/js/3.a83702c6.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.60213c9d.chunk.css.map": "/React-Portfolio/static/css/main.60213c9d.chunk.css.map",
+    "static/js/2.0664608a.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.0664608a.chunk.js.LICENSE.txt",
+    "static/media/Bird1.4ca8f03a.jpg": "/React-Portfolio/static/media/Bird1.4ca8f03a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75600aa6.js",
+    "static/js/runtime-main.40e5ae33.js",
     "static/js/2.0664608a.chunk.js",
     "static/css/main.60213c9d.chunk.css",
     "static/js/main.a5897f0f.chunk.js"
